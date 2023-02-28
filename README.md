@@ -3,6 +3,14 @@ Simple Android tic-tac-toe for educational purposes.
 Android basic source (BASIC!, Laughton, 2011)
 
 
+![figure.\label{pic1}](pic1.jpg)
+
+
+![figure.\label{pic2}](pic2.jpg)
+
+
+![figure.\label{pic3}](pic3.jpg)
+
 
 **References** 
 

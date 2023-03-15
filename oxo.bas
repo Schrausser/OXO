@@ -51,7 +51,7 @@ ONBACKKEY:
 GOSUB fin
 BACK.RESUME
 ONERROR:
-GOSUB fi
+GOSUB fin
 END
 
 hc: % // Display

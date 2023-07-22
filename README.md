@@ -1,7 +1,5 @@
 ## OXO
 Simple Android tic-tac-toe for educational purposes.
-Android basic source (BASIC!, Laughton, 2011)
-
 
 ![figure.\label{pic1}](pic1.jpg)
 
@@ -17,7 +15,3 @@ Android basic source (BASIC!, Laughton, 2011)
 
 ![figure.\label{pic5}](pic5.jpg)
 
-
-**References** 
-
-Laughton, P. (2011). De Re BASIC!. *Manual*. https://github.com/RFO-BASIC/De-Re-Basic.
